@@ -2,6 +2,15 @@
 
 Talk2PDF is an interactive chatbot application that allows users to upload PDF files and ask questions about their content. It uses a Retrieval Augmented Generation (RAG) model to extract and provide relevant information from the uploaded PDFs.
 
+## Demo
+
+Watch the demo video to see how Talk2PDF works in action:
+
+
+https://github.com/Jaxkirat/Talk2PDF/assets/77850299/336dac3b-32ad-4136-9113-4d1fac44d8b1
+
+
+
 ## Features
 
 - Upload PDF files and extract their text content.
@@ -72,16 +81,6 @@ Talk2PDF is an interactive chatbot application that allows users to upload PDF f
 - `main.py`: The main application script.
 - `requirements.txt`: List of dependencies.
 - `.env`: Environment variables file (not included in the repository, create it manually).
-
-## Demo
-
-Watch the demo video to see how Talk2PDF works in action:
-
-
-https://github.com/Jaxkirat/Talk2PDF/assets/77850299/336dac3b-32ad-4136-9113-4d1fac44d8b1
-
-
-
 
 ## Disclaimer
 
