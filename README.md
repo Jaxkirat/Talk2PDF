@@ -10,7 +10,6 @@ Watch the demo video to see how Talk2PDF works in action:
 https://github.com/Jaxkirat/Talk2PDF/assets/77850299/336dac3b-32ad-4136-9113-4d1fac44d8b1
 
 
-
 ## Features
 
 - Upload PDF files and extract their text content.
