@@ -17,7 +17,8 @@ with st.sidebar:
     st.title('Talk2PDF')
     st.markdown('''
     ## About
-    
+    This app is a Chatbot that can be used to read custom PDFs - Hence the name, Talk2PDF. 
+    It uses a Retrieval Augmentation Model (RAG) to get the information from the PDF uploaded by the user(You😄).    
     
     This app is made by using the following technologies:
 
